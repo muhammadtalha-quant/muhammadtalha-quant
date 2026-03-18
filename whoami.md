@@ -4,11 +4,11 @@
 **Age**: {{age}}
 **Degree**: {{degree}}
 
-**Primary Development**: C++23 => systems, performance-critical code
-**Research Synthesis**: Python 3.12 => data, signals, ML
+**C++20/23** => systems, backtesting and pricing engines
+**Python 3.14** => data, signals, ML
 
 Targets:
-- HRT — Algos Developer
+- HRT — Algo Developer (Strategy Development)
 - Citadel Securities — QR (Market Making / Strategy Development)
 
 # └──────────────────────────────────────────────────────┘
