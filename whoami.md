@@ -11,4 +11,4 @@ Targets:
 - HRT — Algo Developer (Strategy Development)
 - Citadel Securities — QR (Market Making / Strategy Development)
 
-# └─────────────────────────────────────────────────────────┘
+# └──────────────────────────────────────────────────────┘
