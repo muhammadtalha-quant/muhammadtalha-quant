@@ -1,4 +1,4 @@
-# ┌────────────────── IDENT: {{name}} ──────────────────┐
+# ┌────────────────── IDENTITY: {{name}} ──────────────────┐
 
 **Location**: {{location}}
 **Age**: {{age}}
@@ -12,8 +12,7 @@
 ---
 
 Targets:
-- HRT — Algorithm Developer
-- Citadel Securities — QR (Market Making)
-- Two Sigma — QR (Strategy Development)
+- HRT — Algos Developer
+- Citadel Securities — QR (Market Making / Strategy Development)
 
 # └──────────────────────────────────────────────────────┘
