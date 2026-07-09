@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋! My name is Muhammad Talha and I'm on my way to become a Quantitative Researcher, from Pakistan.</h1>
+<!-- h1 align="center">Hi there 👋! My name is Muhammad Talha and I'm on my way to become a Quantitative Researcher, from Pakistan.</h1-->
 
 ###
 
