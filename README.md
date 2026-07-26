@@ -1,13 +1,10 @@
 <!-- h1 align="center">Hi there 👋! My name is Muhammad Talha and I'm on my way to become a Quantitative Researcher, from Pakistan.</h1-->
 
-###
+### 
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/muhammadtalha-quant/muhammadtalha-quant/stats-output/stats.svg" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/muhammadtalha-quant/muhammadtalha-quant/languages-output/languages.svg" height="150" alt="languages graph"  />
-</div>
+[![Muhammad's GitHub stats](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant)](https://github.com/stats-organization/github-stats-extended)
 
-###
+### 
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
@@ -27,7 +24,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
 </div>
 
-###
+### 
 
 <div align="center">
   <a href="https://www.youtube.com/@muhammadtalha-quant" target="_blank">
@@ -36,7 +33,9 @@
   <a href="instagram.com/muhammadtalha.quant" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="instagram logo"  />
   </a>
+<a href="discord.com/channels/@me/1378711794280955941">
   <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="discord logo"  />
+</a>
   <a href="mailto:muhammadtalha.quant@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="46" alt="gmail logo"  />
   </a>
@@ -48,10 +47,10 @@
   </a>
 </div>
 
-###
+### 
 
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/muhammadtalha-quant/muhammadtalha-quant/snake-output/snake.svg" alt="Snake animation" />
 
-###
+### 
