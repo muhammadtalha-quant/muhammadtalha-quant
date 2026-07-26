@@ -2,7 +2,9 @@
 
 ### 
 
-[![Muhammad's GitHub stats](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant)](https://github.com/stats-organization/github-stats-extended)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact&theme=gruvbox)
 
 ### 
 
