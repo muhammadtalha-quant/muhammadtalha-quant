@@ -1,5 +1,5 @@
 <!-- h1 align="center">Hi there 👋! My name is Muhammad Talha and I'm on my way to become a Quantitative Researcher, from Pakistan.</h1-->
-<h2 align="center">Hi there 👋! My name is Muhammad Talha. %{future_goal_hidden}%</h2>
+<h4 align="center">Hi there 👋! My name is Muhammad Talha. %{future_goal_hidden}%</h4>
 
 ### 
 
