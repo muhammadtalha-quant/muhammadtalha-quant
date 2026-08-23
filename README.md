@@ -1,10 +1,11 @@
 <!-- h1 align="center">Hi there 👋! My name is Muhammad Talha and I'm on my way to become a Quantitative Researcher, from Pakistan.</h1-->
+<h2 align="center">Hi there 👋! My name is Muhammad Talha. %{future_goal_hidden}%</h2>
 
 ### 
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&show_icons=true&include_all_commits=true&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&custom_title=Statistics%20That%20Might%20Catch%20Your%20Eye&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=muhammadtalha-quant&rank_icon=github&custom_title=Statistics%20That%20Might%20Catch%20Your%20Eye&show_icons=true&include_all_commits=true)
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact&theme=gruvbox)](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact&theme=gruvbox)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact)](https://github-stats-extended.vercel.app/api/top-langs?username=muhammadtalha-quant&layout=compact)
 
 ### 
 
