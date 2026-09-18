@@ -49,6 +49,8 @@
 
 <br clear="both">
 
+<div align="center">
 <img src="https://raw.githubusercontent.com/muhammadtalha-quant/muhammadtalha-quant/snake-output/snake.svg" alt="Snake animation" />
+</div>
 
 ### 
